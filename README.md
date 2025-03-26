@@ -77,8 +77,11 @@ The exported JSON file follows this structure:
 - Use these scripts responsibly and only on websites where you have permission to access and manipulate browser storage data.
 - For security and privacy, avoid sharing sensitive information included in the exported JSON file.
 
+Sure! Here's an appropriate note you can attach to the end of the document:
+
+## Compatibility Note
+
+✅ **Telegram Web Support**: This project is fully compatible with the **Telegram Web** version and can be used for exporting and importing browser data related to Telegram accounts. This makes it particularly useful for account session backup, migration, or recovery across devices and browsers. Please ensure you use this only for your own accounts and in compliance with Telegram’s terms of service.
+
 ## Contributions
 Feel free to fork the repository and submit pull requests for improvements or additional features.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
